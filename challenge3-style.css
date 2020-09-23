@@ -1,0 +1,139 @@
+body{
+    background-color: black;
+    font-weight: normal;
+    font-size: medium;
+
+      }
+      .page-center {
+        
+        max-width: 995 px;
+        height: 100%;
+        margin: auto;
+        background: rgb(75, 119, 75);
+        padding: 20px;
+        block-size: max-content;
+      }
+
+      h1 , h2 {
+          color: rgb(255, 255, 255);
+          font-weight: bold;
+      }
+      
+        
+        
+             .cover{
+                border: 2px solid black;
+                padding: 25px;
+                background: url(nature.jpeg);
+                
+                background-size: cover;
+                margin-bottom: 10px ;
+             }
+
+             .menu {
+                background-color: black;
+                overflow: auto;
+                white-space: nowrap;
+                width: 100%;
+                margin: auto;
+             }
+                
+                 div a {
+                    
+                 display: inline-block;
+                  color: oldlace;
+                  text-align: center;
+                  padding: 10px 70px ;
+                  align-content: center;
+                 }
+                
+                 div a:hover{
+                     background-color: olivedrab;
+                 }
+                  #d1 a {
+                  padding: 0;
+                  }
+                  #d1{
+                      position: relative;
+                      float: left;
+                      width: 30%;
+                  }
+                  #d2 {
+                      position: relative;
+                      float: left;
+                      width: 65%;
+                  }
+                  #d3 {
+                      clear: both;
+                    position: relative;
+                    float: left;
+                    width: 30%;
+                }
+                #d6 {
+                    position: relative;
+                    float: left;
+                    width: 65%;
+                    
+                }
+                #d4 {
+                    padding: 50px;
+                    position: relative;
+                    float: left;
+                   
+
+                }
+                #d5{
+                    padding: 50px;
+                    position: relative;
+                    float: left;
+                    border-left: solid;
+                    border-color: silver;
+                    height: 40%;
+                   
+                }
+                
+                   
+  
+                
+
+                .fs {
+                    clear: both;
+                    width: 40%;
+
+                }
+                #d2 {
+                    width:600px;
+                    word-wrap: break-word
+                }
+                #p1 {
+                    width:210px;
+                  word-wrap: break-word
+                }
+                #p2 {
+                    width:210px;
+                  word-wrap: break-word
+                }
+                #p1 {
+                    width:210px;
+                  word-wrap: break-word
+                }
+                #p2 {
+                    width:210px;
+                  word-wrap: break-word
+                }
+                #p3 {
+                    width:210px;
+                  word-wrap: break-word
+                }
+
+                  
+                  
+                  
+                  
+                  
+                  
+                      
+                  
+         
+
+
